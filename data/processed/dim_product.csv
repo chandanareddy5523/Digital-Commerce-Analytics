@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_price
+P001,Product 001,Grocery,9072
+P002,Product 002,Electronics,13533
+P003,Product 003,Grocery,13261
+P004,Product 004,Electronics,9686
+P005,Product 005,Beauty,17174
+P006,Product 006,Beauty,11522
+P007,Product 007,Beauty,2044
+P008,Product 008,Beauty,15417
+P009,Product 009,Fashion,11704
+P010,Product 010,Beauty,12877
+P011,Product 011,Home,11524
+P012,Product 012,Beauty,11294
+P013,Product 013,Fashion,2266
+P014,Product 014,Fashion,11404
+P015,Product 015,Fashion,16000
+P016,Product 016,Fashion,6427
+P017,Product 017,Electronics,12255
+P018,Product 018,Electronics,1100
+P019,Product 019,Home,7276
+P020,Product 020,Electronics,9015

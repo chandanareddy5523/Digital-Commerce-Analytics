@@ -1,0 +1,6 @@
+{
+  "project_name": "Digital Commerce Customer & Revenue Intelligence",
+  "currency": "INR",
+  "return_statuses": ["Returned", "Refunded"],
+  "output_excel": "reports/digital_commerce_kpi_report.xlsx"
+}
